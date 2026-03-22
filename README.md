@@ -1,4 +1,4 @@
-#Bienes Raíces
+*Bienes Raíces
 
 Este repositorio contiene fragmentos de código en Python aplicados al sector de Bienes Raíces, desarrollados con fines estrictamente pedagógicos. El material está estructurado para que los estudiantes puedan copiar y pegar las secciones de código en sus propios Jupyter Notebooks o entornos de Google Colab.
 
