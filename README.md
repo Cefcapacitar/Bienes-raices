@@ -8,6 +8,6 @@ El objetivo es facilitar la experimentación directa con la automatización de p
 
 Este material tiene fines estrictamente educativos. Los códigos, modelos y análisis presentados no constituyen asesoría en inversiones inmobiliarias, tasaciones oficiales ni garantía de rentabilidad futura. La aplicación de estos algoritmos para la toma de decisiones comerciales o financieras es responsabilidad exclusiva del usuario.
 
-Magister Jorge Córdoba 
+💬 ¿Dudas sobre el código o querés profundizar?
 
-Instagram: @cefcapacitar
+Cualquier consulta sobre los notebooks escribime por MD a @cefcapacitar en Instagram.
