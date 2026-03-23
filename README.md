@@ -11,4 +11,5 @@ Este material tiene fines estrictamente educativos. Los códigos, modelos y aná
 💬 ¿Dudas sobre el código o querés profundizar?
 
 Cualquier consulta sobre los notebooks escribime por MD a @cefcapacitar en Instagram.
+
 Magister Jorge Córdoba
